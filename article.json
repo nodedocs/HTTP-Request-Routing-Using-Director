@@ -1,16 +1,17 @@
 {
-	"title": "HTTP Request Routing Using Director (Video)",
-	"description": "Using Director for breaking the request handling logic according to URL and HTTP method.",
-	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
-	"tags": ["http", "routing", "director"],
-	"authors": [
+  "title": "HTTP Request Routing Using Director (Video)",
+  "description": "Using Director for breaking the request handling logic according to URL and HTTP method.",
+  "date": "Sun, 05 Aug 2012 18:07:44 GMT",
+  "tags": ["http", "routing", "director"],
+  "authors": [
     { "name": "Pedro Teixeira",
 		  "email": "pedro.teixeira@gmail.com",
 		  "url": "https://github.com/pgte",
 		  "twitter": "http://twitter.com/pgte"
     }
-	],
-	"difficulty": 6,
+  ],
+  "difficulty": 6,
+  "video": true,
   "categories": [
     ["HTTP", "Server"]
   ]
